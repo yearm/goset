@@ -1,1 +1,1 @@
-module goset
+module structure
