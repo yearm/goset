@@ -2,6 +2,7 @@ package structure
 
 import "sync"
 
+//线程安全set
 var Empty = struct{}{}
 
 type Set struct {
